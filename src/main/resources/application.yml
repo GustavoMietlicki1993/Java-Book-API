@@ -1,0 +1,11 @@
+spring:
+  jpa:
+  properties:
+  hibernate:
+    ddl-auto: uptade
+  jdbc:
+  lob: non_contextual_creationtrue
+  datasource:
+    url: jdbc:postgresql://localhost:5432/livrariaBoa
+    username: postgres
+    password: 9771
