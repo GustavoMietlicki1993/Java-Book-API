@@ -1,4 +1,4 @@
-package com.deal.Livraria;
+package com.deal.Livraria.Main;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
